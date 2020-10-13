@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amchugh2/amchugh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-
-![Profile views counter](https://amchugh2.dev/github-profile-view-counter.svg)
 
 #### I'm a student at the Watson School of Engineering at Binghamton University.
 
