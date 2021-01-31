@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a student at the Watson School of Engineering at Binghamton University.
 
 - 🏢 I'm an incoming Software Engineering Analyst at **J.P Morgan**
-- 🔭 I’m currently working on ... **a vaccine website tracker for Monmouth and Ocean Counties, NJ!**
+- 🔭 I’m currently working on **a vaccine website tracker for Monmouth and Ocean Counties, NJ!**
 - ⚙️ I use daily: `Python`, `C++`, `C`
 - 🌍 I'm mostly active within the **Python Community**
 - 💅 Designed: [my personal website](https://amchugh2.github.io/)
