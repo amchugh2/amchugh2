@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-#### I'm a student at the Watson School of Engineering at Binghamton University.
+#### I'm a Software Engineer at J.P. Morgan.
 
-- 🏢 I'm an incoming Software Engineering Analyst at **J.P Morgan**
-- 🔭 I’m currently working on **a vaccine website tracker for Monmouth and Ocean Counties, NJ!**
-- ⚙️ I use daily: `Python`, `C++`, `C`
+- 🔭 I’m currently working on **supporting trading applications for the Securitized Products Group Trading Desk!**
+- ⚙️ I use daily: `Python`,  `Java`,  `C++`, `C`
 - 🌍 I'm mostly active within the **Python Community**
-- 💅 Designed: [my personal website](https://amchugh2.github.io/)
-- 🌱 This semester, I'm learning all about **Programming Languages, Databases, and Design Patterns..**
-- 📫 Reach me: [amchugh2@binghamton.edu]
-- ⚡️ Fun fact: I am on the varsity swim team at Binghamton!
+- 📫 Reach me: [abbymchugh73@gmail.com]
